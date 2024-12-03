@@ -1,0 +1,64 @@
+[
+  {
+    "project": "Web Application",
+    "projectNameLong": "Web Application Main web",
+    "columnTitle": "To Do",
+    "columnLocator": "div.flex.flex-col.w-80.bg-gray-50.rounded-lg.p-4:nth-child(1)",
+    "cardTitle": "Implement user authentication",
+    "tags": [
+      "Feature",
+      "High Priority"
+    ]
+  },
+  {
+    "project": "Web Application",
+    "projectNameLong": "Web Application Main web",
+    "columnTitle": "To Do",
+    "columnLocator": "div.flex.flex-col.w-80.bg-gray-50.rounded-lg.p-4:nth-child(1)",
+    "cardTitle": "Fix navigation bug",
+    "tags": [
+      "Bug"
+    ]
+  },
+  {
+    "project": "Web Application",
+    "projectNameLong": "Web Application Main web",
+    "columnTitle": "In Progress",
+    "columnLocator": "div.flex.flex-col.w-80.bg-gray-50.rounded-lg.p-4:nth-child(2)",
+    "cardTitle": "Design system updates",
+    "tags": [
+      "Design"
+    ]
+  },
+  {
+    "project": "Mobile Application",
+    "projectNameLong": "Mobile Application Native",
+    "columnTitle": "To Do",
+    "columnLocator": "div.flex.flex-col.w-80.bg-gray-50.rounded-lg.p-4:nth-child(1)",
+    "cardTitle": "Push notification system",
+    "tags": [
+      "Feature"
+    ]
+  },
+  {
+    "project": "Mobile Application",
+    "projectNameLong": "Mobile Application Native",
+    "columnTitle": "In Progress",
+    "columnLocator": "div.flex.flex-col.w-80.bg-gray-50.rounded-lg.p-4:nth-child(2)",
+    "cardTitle": "Offline mode",
+    "tags": [
+      "Feature",
+      "High Priority"
+    ]
+  },
+  {
+    "project": "Mobile Application",
+    "projectNameLong": "Mobile Application Native",
+    "columnTitle": "Done",
+    "columnLocator": "div.flex.flex-col.w-80.bg-gray-50.rounded-lg.p-4:nth-child(4)",
+    "cardTitle": "App icon design",
+    "tags": [
+      "Design"
+    ]
+  }
+]
